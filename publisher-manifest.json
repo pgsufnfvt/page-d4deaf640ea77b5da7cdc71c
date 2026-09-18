@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "d045bec17553f6e9e4bc175c",
+  "owner": "pgsufnfvt",
+  "repo": "page-d4deaf640ea77b5da7cdc71c",
+  "title": "薯条(SSRCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d4deaf640ea77b5da7cdc71c",
+      "a": "薯条(SSRCloud)",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "薯条(SSRCloud)",
+      "brand": "薯条(SSRCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e17698f105c925b033cef479c3e390a858a04e11f0c4b113afe05721b5546ed3",
+      "content": {
+        "primary_entity": "薯条(SSRCloud)",
+        "keyword1": "薯条(SSRCloud)",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash Mi 对应版本，Windows、macOS、Android、iOS 可分别获取安装包。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置你的订阅",
+          "AI_DESCRIPTION": "，薯条(SSRCloud)提供基础版、旗舰版与团队版三档订阅方案，月付与年付灵活可选。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并配备 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备，适合小型团队共享。搭配 Clash Mi 客户端可完成订阅导入与日常使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速了解订阅结构。",
+          "AI_FEATURES_TITLE": "订阅前先了解这三点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月付或年付灵活选择。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量匹配档位。",
+          "AI_FEATURE_TEXT_3": "年付价格更划算，旗舰版含 IPLC 专线，团队版支持定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐流量档位",
+          "AI_FEATURE_TITLE_2": "同时在线设备数",
+          "AI_FEATURE_TITLE_3": "周期与增值项",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成 Clash Mi 使用准备。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "薯条(SSRCloud)提供多档订阅方案，覆盖不同流量与设备需求。基础版适合轻度使用，旗舰版满足流媒体与游戏加速，团队版支持多人共享。搭配 Clash Mi 客户端，按设备选择对应版本即可配置订阅。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "Clash Mi 多平台客户端可选",
+          "AI_PLANS_INTRO": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，年付价格分别约为月付的十倍，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与节点特性，确认符合使用场景。",
+          "AI_STEP_TEXT_3": "依照 Clash Mi 客户端文档导入订阅信息，完成配置后即可连接。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "薯条(SSRCloud)订阅配置",
+          "AI_FAQ_ANSWER_1": "基础版提供每月 100GB 流量与 3 台设备；旗舰版每月 300GB 流量与 5 台设备；团队版每月 1000GB 流量与 20 台设备，可按使用规模选择。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备。多人共用或设备较多时，建议选用旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省一定费用，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "根据设备系统选择适配客户端，复制订阅地址后在客户端中导入，保存并更新节点即可连接使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和稳定性有更高要求的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么差别？",
+          "AI_FAQ_QUESTION_2": "基础版、旗舰版和团队版分别适合多少台设备？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算吗？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版适合游戏加速吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8acc08f676248129761abdf3094f0a2cd52648f0160b5e027920cd66b2a2b2c2",
+    "sitemap.xml": "4619359f44e4cd59fc2181f3059e299a0d2ab0897bbf7f804b74b7b6219054b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c1a7dd3fba5770cc7cf8ca5a7701742df4a8e0558b727f74d655c59211111223"
+}
